@@ -1,0 +1,7 @@
+Melhor kernel aprendido: ExpSineSquared(length_scale=2.42e+03, periodicity=2.12e+03) * RationalQuadratic(alpha=0.0134, length_scale=1e+05) * RationalQuadratic(alpha=10.8, length_scale=1e+05) + DotProduct(sigma_0=0.000999)
+Melhor MSE: 6666.519864990578
+Melhor STD: 81.64875911482414
+Melhor R² train: 0.9984645323218339
+Melhor R²: 0.9989982264441619
+Melhor R² test: 0.9764349411416007
+Melhor lml:  35.7421868522932

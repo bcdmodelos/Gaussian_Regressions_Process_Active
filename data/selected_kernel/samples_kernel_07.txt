@@ -1,0 +1,1 @@
+RBF(length_scale=20) * ExpSineSquared(length_scale=1, periodicity=15) + DotProduct(sigma_0=0.858) + WhiteKernel(noise_level=1e-3)

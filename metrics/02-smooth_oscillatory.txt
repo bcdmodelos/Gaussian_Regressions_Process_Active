@@ -1,0 +1,7 @@
+Melhor kernel aprendido: RBF(length_scale=1e+05) * ExpSineSquared(length_scale=4.03, periodicity=0.987) * RationalQuadratic(alpha=1e+05, length_scale=1e+05) + WhiteKernel(noise_level=1e-05)
+Melhor MSE: 48.9396482944296
+Melhor STD: 6.995687835690612
+Melhor R² train: 0.9996010118837336
+Melhor R²: 0.9995947270537033
+Melhor R² test: 0.999564630633558
+Melhor lml:  44.21577061302335

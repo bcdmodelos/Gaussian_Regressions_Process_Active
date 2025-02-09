@@ -1,0 +1,7 @@
+Melhor kernel aprendido: Matern(length_scale=189, nu=1.5) + DotProduct(sigma_0=1e-05) + DotProduct(sigma_0=0.000418)
+Melhor MSE: 146836626.7266489
+Melhor STD: 12117.616379744364
+Melhor R² train: 0.9998999306850551
+Melhor R²: 0.9995482591111379
+Melhor R² test: 0.9476179260638709
+Melhor lml:  193.91415156461926

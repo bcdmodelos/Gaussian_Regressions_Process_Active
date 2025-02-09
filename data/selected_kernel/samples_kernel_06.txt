@@ -1,0 +1,1 @@
+RationalQuadratic(alpha=1, length_scale=1) * DotProduct(sigma_0=1) * DotProduct(sigma_0=1) * RBF(length_scale=1)

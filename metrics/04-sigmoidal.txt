@@ -1,0 +1,7 @@
+Melhor kernel aprendido: ExpSineSquared(length_scale=0.508, periodicity=1) + ExpSineSquared(length_scale=0.508, periodicity=1) + ExpSineSquared(length_scale=0.508, periodicity=1) + RationalQuadratic(alpha=4.3e-05, length_scale=9.74e+04)
+Melhor MSE: 2174.447240826303
+Melhor STD: 46.63096868848323
+Melhor R² train: 0.9944456601492119
+Melhor R²: 0.9886883815273214
+Melhor R² test: 0.6650121826157464
+Melhor lml:  39.09954202295765

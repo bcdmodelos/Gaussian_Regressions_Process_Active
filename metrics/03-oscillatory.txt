@@ -1,0 +1,7 @@
+Melhor kernel aprendido: DotProduct(sigma_0=1e-05) * DotProduct(sigma_0=1e-05) * DotProduct(sigma_0=1e-05) + ExpSineSquared(length_scale=1, periodicity=0.969)
+Melhor MSE: 2055.866239197397
+Melhor STD: 45.34166118700766
+Melhor R² train: 0.9836218204675847
+Melhor R²: 0.9831585425831745
+Melhor R² test: 0.981926413825248
+Melhor lml:  -4.115596180077375
