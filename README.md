@@ -1,4 +1,4 @@
-Deep Learning for Kernel Selection in Gaussian Process Regression
+# Deep Learning for Kernel Selection in Gaussian Process Regression
 
 GenK
 
